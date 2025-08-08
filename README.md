@@ -1,2 +1,2 @@
 # residencial_api
-API de treino (FastAPI + Pydantic) para backend anti‑IA.
+API de treino (FastAPI + Pydantic) para backend.
